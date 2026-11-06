@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Logseq on Alex&#39;s personal blog</title>
-		<link>https://xieweialex.github.io/tags/logseq/</link>
+		<link>https://alexxie16.github.io/tags/logseq/</link>
 		<description>Recent content in Logseq on Alex&#39;s personal blog</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://xieweialex.github.io/tags/logseq/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://alexxie16.github.io/tags/logseq/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Go Logseq: Build My 2nd Brain</title>
-				<link>https://xieweialex.github.io/post/2022/go-logseq/</link>
+				<link>https://alexxie16.github.io/post/2022/go-logseq/</link>
 				<pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-				<guid>https://xieweialex.github.io/post/2022/go-logseq/</guid>
+				<guid>https://alexxie16.github.io/post/2022/go-logseq/</guid>
 				<description>&lt;img src=&#34;https://pub-d12326d6dec844d18197aa640f372de8.r2.dev/logseq-logo.jpeg&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;&#xA;&lt;h2 id=&#34;table-of-content&#34;&gt;Table of Content&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;#motivation&#34;&gt;Motivation&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;#what-i-like-about-logseq&#34;&gt;What I Like in Logseq&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;#reference&#34;&gt;Reference&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;#to-be-explored&#34;&gt;To Be Explored&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;too-many-files&#34;&gt;Too many files&lt;/h3&gt;&#xA;&lt;p&gt;For years, I have relied on typing my notes and thoughts on my laptop in plain text. The convenience of not having to carry physical paper and the ease of searching through my notes were the main reasons for this. However, as time passed, my notes became cluttered and difficult to manage(still way better than physical notebook), despite my efforts to organize them by year and month.&lt;/p&gt;</description>
 			</item>
 	</channel>
